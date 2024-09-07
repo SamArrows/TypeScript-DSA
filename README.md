@@ -1,0 +1,1 @@
+I have used JavaScript many times in the past for web development projects and thus decided to familiarise myself with TypeScript which is simply a super-set of JavaScript with static typing. To do this, I intend to solve a variety of Leetcode problems to build up fluency and efficiency in using TypeScript.
